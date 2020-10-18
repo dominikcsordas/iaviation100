@@ -1,11 +1,16 @@
-# iaviation100
-iAviation 1.0
-#=============================================================================#
-Welcome to iAviation 1.0 source code
-The license is GNU General Public License 3.0, so you can use the code.
-#=============================================================================#
+# iaviation3
 
-I decided to upload here to get help, how to make the logbook working, I mean, recording entries, and others..
+A new Flutter project.
 
-If you have any idea, please send me in email or something! Thank you!
-Email: ominik.s99@gmail.com
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
